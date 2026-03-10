@@ -1,6 +1,6 @@
-# NeroGym
+# NeuroGym
 
-NeroGym is a submodule of [RubikNet](https://github.com/badboy1606/RubikNet) containing foundational experiments in **Reinforcement Learning** and **Deep Learning**.
+NeuroGym is a submodule of [RubikNet](https://github.com/badboy1606/RubikNet) containing foundational experiments in **Reinforcement Learning** and **Deep Learning**.
 
 <p align="center">
   <img src="assets/image.png" alt="cartpole" width="400"/>
